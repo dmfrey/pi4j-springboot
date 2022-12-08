@@ -1,4 +1,4 @@
-package com.pi4j.springboot.configurations;
+package com.pi4j.springboot;
 
 import com.pi4j.context.Context;
 import org.junit.jupiter.api.Test;
